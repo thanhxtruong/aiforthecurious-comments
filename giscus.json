@@ -1,5 +1,5 @@
 {
-  "origins": ["https://aiforthecurious.ai"],
+  "origins": ["https://aiforthecurious.ai", "https://www.aiforthecurious.ai"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "oldest"
 }
